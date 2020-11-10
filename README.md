@@ -2,9 +2,12 @@
 Convert escape characters in the text!  
 (C++ escape characters)
 # For Example
-We have test.txt, then  
+We have test.txt,  
+![test.txt](https://github.com/Knight-of-night/EscapeCharacterConverter/tree/main/img/example1.jpg)
+then  
 `EscapeCharacterConverter.exe test.txt`  
+![convert](https://github.com/Knight-of-night/EscapeCharacterConverter/tree/main/img/example3.jpg)
 we'll get  
 `output_test.txt`  
-in the same directory.  
-(I'll put some pictures later...)
+![output](https://github.com/Knight-of-night/EscapeCharacterConverter/tree/main/img/example2.jpg)
+in the same directory.
